@@ -1,0 +1,32 @@
+* {
+    background-color: whitesmoke;
+}
+
+* {
+    color: black;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.ruota {
+    width: 400px;
+    height: 300px;
+}
+
+.stampante {
+    width: 300px;
+    height: 300px;
+}
+
+.nokia {
+    width: 300px;
+    height: 500px;
+}
+
